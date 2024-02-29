@@ -201,6 +201,11 @@ h6,
         height: 100%;
         object-fit: cover;
     }
+   
+    .business{
+        order: 2;
+    }
+
 }
 
 .page-header {
