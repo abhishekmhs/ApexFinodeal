@@ -39,6 +39,10 @@ h6,
     font-weight: 500 !important;
 }
 
+#msg{
+    color: #61b752;
+    display: block;
+}
 
 /*** Spinner ***/
 #spinner {
